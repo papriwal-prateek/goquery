@@ -1,0 +1,5 @@
+docstand:
+  ruby:
+    version: 1.0.0
+    option-a: abc
+    option-b: bcd
